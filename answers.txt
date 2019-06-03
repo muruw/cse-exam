@@ -1,0 +1,9 @@
+1.    How many commits are in this repository (in total; in all branches)?
+	A: There are 61 commits  
+
+2.    When was the line #10 in the file index.html last changed and who is the author of that commit?
+	A: Mon May 7 19:14:12 2018 +0300 Stepan Bolotnikob stjoopa@gmail.com
+		Linked scripts.js to index.html
+
+3.    What is the commit message of the commit with the hash 865cbc8? 
+	A: Added travis config file
